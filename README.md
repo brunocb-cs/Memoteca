@@ -1,6 +1,6 @@
 # Memoteca
 
-A Memoteca é um aplicativo organizador de pensamentos e frases que permite cadastrar, listar, editar, deletar, filtrar e favoritar pensamentos, incluindo informações como conteúdo, autoria e data.
+A Memoteca é um aplicativo organizador de pensamentos e frases que permite cadastrar, listar, editar, deletar, filtrar e favoritar pensamentos, incluindo informações como conteúdo, autoria e data. Foi feito em conjunto com um curso da plataforma da Alura.
 
 ## 🔨 Funcionalidades do projeto
 
